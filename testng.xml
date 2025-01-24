@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testngorder.testNg_XML_File">
+      	<methods><i></i></methods>
+      	<methods><i></i><include name="facebook"></include>lude name="facebook"></include>lude name="facebook"></includelude name="facebook"></includlude name="facebook"></inclulude name="facebook"></incllude name="facebook"></include name="facebook"></inc;lude name="facebook"></include name="facebook"></inlude name="facebook"></ilude name="facebook"></lude name="facebook"><lude name="facebook">lude name="facebook"lude name="facebooklude name="faceboolude name="facebolude name="faceblude name="facelude name="faclude name="falude name="flude name="lude name=lude namelude namlude nalude nlude ludeludlul/include&gt;</methods></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
